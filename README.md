@@ -49,7 +49,7 @@ The following steps were taken to clean the dataset:
 
 - **Python**
 - **pandas**
-- **Google Colab **
+- **Google Colab**
 
 ---
 
