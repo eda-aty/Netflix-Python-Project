@@ -49,7 +49,7 @@ The following steps were taken to clean the dataset:
 
 - **Python**
 - **pandas**
-- **Google Colab Notebook**
+- **Google Colab **
 
 ---
 
@@ -75,7 +75,7 @@ The final dataset is clean, standardized, and ready for:
 
 | File | Description |
 |------|-------------|
-| `netflix_data_cleaning_case_study.ipynb` | Jupyter Notebook containing full data cleaning steps |
+| `netflix_data_cleaning_case_study.ipynb` | Google Colab  containing full data cleaning steps |
 | `README.md` | This documentation file |
 
 ---
@@ -84,7 +84,7 @@ The final dataset is clean, standardized, and ready for:
 
 **[Eda Aty]**  
 *Junior  Data Analyst | *  
-• [Portfolio](https://github.com/yourusername)
+• [Portfolio](https://github.com/eda-aty/Portfolio-Guide))
 
 ---
 
